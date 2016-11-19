@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_android.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_android.iml" group="GluonMobile-SingleViewProject-DatingApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_desktop.iml" group="GluonMobile-SingleViewProject-DatingApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_embedded.iml" group="GluonMobile-SingleViewProject-DatingApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_ios.iml" group="GluonMobile-SingleViewProject-DatingApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_main.iml" group="GluonMobile-SingleViewProject-DatingApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonMobile-SingleViewProject-DatingApp_test.iml" group="GluonMobile-SingleViewProject-DatingApp" />
+    </modules>
+  </component>
+</project>
